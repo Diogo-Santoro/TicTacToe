@@ -1,2 +1,2 @@
 # TicTacToe
-A simple TicTacToe game made in C#
+A simple TicTacToe game made in C#.
